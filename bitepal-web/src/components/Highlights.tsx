@@ -10,6 +10,7 @@ import {
   DialogContent,
   IconButton,
 } from "@mui/material";
+import ListItemButton from "@mui/material/ListItemButton";
 import CloseIcon from "@mui/icons-material/Close";
 
 interface HighlightMeta {
@@ -76,12 +77,10 @@ export default function Highlights() {
       ) : (
         <List>
           {highlights.map((h) => (
-            <ListItem
-              button
-              key={h.filename}
-              onClick={() => handleOpen(h.filename)}
-            >
-              <ListItemText primary={h.title} secondary={h.filename} />
+            <ListItem key={h.filename} disablePadding>
+              <ListItemButton onClick={() => handleOpen(h.filename)}>
+                <ListItemText primary={h.title} secondary={h.filename} />
+              </ListItemButton>
             </ListItem>
           ))}
         </List>
