@@ -1,0 +1,11 @@
+{
+    "title": "",
+    "before_pet_name_title_string": "Get reminders when",
+    "after_pet_name_title_string": "is hungry",
+    "subtitle": "",
+    "notification_title": "Нey, I’m hungry 👋 ",
+    "notification_subtitle": "Don’t forget to snap your meal",
+    "enable_button_text": "Enable notifications",
+    "skip_button_text": "Maybe later",
+    "show_skip_button": true
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Choose your plan",
+    "preselected_subscription_id": "bitepal.sub.pro.1yr_3dtrial_35.99",
+    "background_url": "",
+    "subscriptions": [
+      {
+        "id": "bitepal.sub.pro.1yr_3dtrial_35.99",
+        "title": "3-day free trial",
+        "subtitle": "Most popular",
+        "button_title": "Start my 3-day free trial",
+        "has_trial": true,
+        "sale": 0.4
+      },
+      {
+        "id": "pookies.sub.pro.wk_wotrial_3.99",
+        "title": "Weekly",
+        "subtitle": "Pay-as-you-go",
+        "button_title": "Continue",
+        "has_trial": false,
+        "sale": null
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+  "paywall_version": "v6",
+  "paywall_config": {
+    "title": "Exclusive offer tailored for you",
+    "preselected_subscription_id": "bitepal.sub.pro.1yr_wotrial_23.99",
+    "background_url": "",
+    "subscriptions": [
+      {
+        "id": "bitepal.sub.pro.1yr_wotrial_23.99",
+        "title": "Save big!",
+        "subtitle": "60% OFF",
+        "button_title": "Claim your limited offer",
+        "has_trial": false,
+        "sale": 0.6
+      }
+    ]
+  }
+}

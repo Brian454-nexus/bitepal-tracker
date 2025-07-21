@@ -1,0 +1,222 @@
+{
+    "title": "Processed Meat",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Sausages, deli meats, bacon, and prosciutto are examples of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " processed meats.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They are delicious and diverse but come with ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " hidden drawbacks.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "During curing, smoking, or canning, meat often",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " loses its nutritional value.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Processed meats also contain",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " a lot of salt",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " high in fat.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It is classified as a carcinogen due to the presence of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " nitrates and nitrites.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "World Health Organization",
+                "url": "https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Studies have found links between processed meat",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " various forms of cancer",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " as well as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " heart disease and diabetes.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "This doesn't mean you have to give up processed meats completely – everyone enjoys a hot dog once in a while, right?",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Still, it's best to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " go easy on them.",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " When possible, choose fish or whole cuts of meat as your main protein source.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Tips for choosing safer options:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Look for products labeled",
+                                    "color": 4280690214
+                                },
+                                {
+                                    "text": " \"reduced sodium\"",
+                                    "color": 4282888794
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose options that state",
+                                    "color": 4280690214
+                                },
+                                {
+                                    "text": " \"no added nitrates or nitrites\"",
+                                    "color": 4282888794
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Ensure that the meat’s color",
+                                    "color": 4280690214
+                                },
+                                {
+                                    "text": " looks natural,",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " not overly bright or artificial",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Unlock premium features",
+  "preselected_subscription_id": "pookies.sub.pro.1yr_wotrial_39.99",
+  "subscriptions": [
+   {
+    "id": "pookies.sub.pro.1yr_wotrial_39.99",
+    "title": "12 months",
+    "subtitle": "",
+    "button_title": "Continue",
+    "has_trial": false,
+    "sale": 0.5
+   },
+   {
+    "id": "pookies.sub.pro.1m_wotrial_9.99",
+    "title": "1 month",
+    "subtitle": "",
+    "button_title": "Continue",
+    "has_trial": false,
+    "sale": null
+   }
+  ]
+}
+

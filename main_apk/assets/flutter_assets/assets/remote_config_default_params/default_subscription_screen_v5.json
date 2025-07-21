@@ -1,0 +1,28 @@
+{
+  "title": "Unlock premium experience",
+  "preselected_subscription_id": "pookies.sub.pro.1yr_wotrial_39.99",
+  "background_url": "",
+  "bullet_points": [
+    "Unlimited food scans",
+    "Nutrition tips",
+    "Long-lasting results"
+  ],
+  "subscriptions": [
+    {
+      "id": "pookies.sub.pro.1yr_wotrial_39.99",
+      "title": "12 months",
+      "subtitle": "",
+      "button_title": "Continue",
+      "has_trial": false,
+      "sale": 0.5
+    },
+    {
+      "id": "bitepal.sub.pro.3m_wotrial_19.99",
+      "title": "3 months",
+      "subtitle": "",
+      "button_title": "Continue",
+      "has_trial": false,
+      "sale": null
+    }
+  ]
+}

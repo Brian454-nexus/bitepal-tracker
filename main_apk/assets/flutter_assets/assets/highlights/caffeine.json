@@ -1,0 +1,174 @@
+{
+    "title": "Caffeine",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Caffeine is a",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " stimulant",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " found in coffee, tea, energy drinks, and cola.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Moderate caffeine intake is generally safe for most people, but",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " excessive consumption",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " can lead to health issues.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "High caffeine intake can cause jitters, increased heart rate, anxiety, and trouble sleeping.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "While caffeine can provide a temporary energy boost, it",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " does not replace proper rest and nutrition.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Too much caffeine can",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " reduce calcium absorption",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and weaken bones over time.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To avoid negative effects, limit caffeine intake to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 400 mg per day",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " = 4 cups of brewed coffee.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Avoid energy drinks and sodas, as they also contain high amounts of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " sugar and artificial additives.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Caffeinated drinks are dehydrating, so",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " drink extra water",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " after having them.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Everyone’s tolerance to caffeine is different. Listen to your body and",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " adjust your individual intake.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

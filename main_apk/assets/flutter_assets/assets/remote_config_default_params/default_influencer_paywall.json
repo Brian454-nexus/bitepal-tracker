@@ -1,0 +1,18 @@
+{
+    "paywall_version": "v9",
+    "paywall_config": {
+        "title": "Special offer from:",
+        "preselected_subscription_id": "bitepal.sub.pro.1yr_wotrial_23.99",
+        "background_url": "",
+        "subscriptions": [
+            {
+                "id": "bitepal.sub.pro.1yr_wotrial_23.99",
+                "title": "One time offer",
+                "subtitle": "For annual plan",
+                "button_title": "Claim my one-time offer",
+                "has_trial": false,
+                "sale": 0.6
+            }
+        ]
+    }
+}

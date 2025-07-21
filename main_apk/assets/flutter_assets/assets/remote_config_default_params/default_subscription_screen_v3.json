@@ -1,0 +1,32 @@
+{
+  "title": "Unlock unlimited food scans",
+  "preselected_subscription_id": "pookies.sub.pro.1yr_wotrial_39.99",
+  "background_url": "",
+  "subscriptions": [
+    {
+      "id": "pookies.sub.pro.1m_wotrial_9.99",
+      "title": "1 month",
+      "subtitle": "",
+      "button_title": "Continue",
+      "has_trial": false,
+      "sale": null
+    },
+    {
+      "id": "pookies.sub.pro.1yr_wotrial_39.99",
+      "title": "12 months",
+      "subtitle": "50% off",
+      "button_title": "Continue",
+      "has_trial": false,
+      "sale": 0.5
+    },
+    {
+      "id": "bitepal.sub.pro.3m_wotrial_19.99",
+      "title": "3 months",
+      "subtitle": "popular",
+      "button_title": "Continue",
+      "has_trial": false,
+      "sale": null
+    }
+  ]
+}
+

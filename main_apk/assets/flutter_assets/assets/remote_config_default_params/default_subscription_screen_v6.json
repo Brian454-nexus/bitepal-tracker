@@ -1,0 +1,15 @@
+{
+  "title": "How your free trial works",
+  "preselected_subscription_id": "bitepal.sub.pro.1yr_3dtrial_35.99",
+  "background_url": "",
+  "subscriptions": [
+    {
+      "id": "bitepal.sub.pro.1yr_3dtrial_35.99",
+      "title": "Trial ends",
+      "subtitle": "",
+      "button_title": "Start my 3-day free trial",
+      "has_trial": true,
+      "sale": null
+    }
+  ]
+}

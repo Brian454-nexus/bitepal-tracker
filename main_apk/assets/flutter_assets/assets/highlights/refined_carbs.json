@@ -1,0 +1,230 @@
+{
+    "title": "Refined carbs",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Our body breaks down carbohydrates into glucose,",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " our main source of energy.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "There are two types of carbs:",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " simple",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " complex",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Refined carbs fall under the simple category and often provide",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " \"empty calories.\"",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Sources of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " refined carbs",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " are:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "White bread",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Pizza",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Bagels and tortillas",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Cakes and other bakery",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "These foods are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " processed, low in nutrients,",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and have minimal fiber and vitamins.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It digests quickly, often causing",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " sharp spikes in blood sugar.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Consuming too many refined carbs can increase the risk of heart disease, diabetes, and weight gain.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " reduce refined carbs",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " in your diet:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Swap white bread for whole wheat bread",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Limit desserts and bakery",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Balance meals like pizza with a side of raw vegetables",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

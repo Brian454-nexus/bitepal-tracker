@@ -1,0 +1,201 @@
+{
+    "title": "Healthy fats",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Healthy fats, also known as unsaturated fats, include:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Monounsaturated",
+                                    "color": 4282888794
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Polyunsaturated including Omega-3 and Omega-6",
+                                    "color": 4282888794
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Monounsaturated fat help lower bad cholesterol and ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "regulate blood sugar levels.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They are found in olive oil, avocados, almonds, peanuts, and seeds like pumpkin and sesame.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Polyunsaturated, including Omega-3 and Omega-6 fatty acids, play crucial roles in ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "brain function, heart health, and cell growth.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Our bodies cannot produce Omega-3 and Omega-6, ",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": "making it essential to get them through our diet.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They're found in fish like salmon and trout, flaxseeds, walnuts, chia, and sunflower seeds.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "For Omega-3s, the American Heart Association suggests two servings ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "(about 227 grams) of fatty fish per week.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Non-fish eaters can opt for flaxseeds, adding ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "1-2 tablespoons of ground flaxseeds ",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": "to your diet every day or using flaxseed oil as a salad dressing.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat more healthy fats:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Use olive oil for cooking and dressing salads",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Eat nuts and seeds as snacks",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose fatty fish several times a week",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

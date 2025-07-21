@@ -1,0 +1,206 @@
+package kotlin.io;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStream;
+import java.io.Reader;
+import java.io.StringReader;
+import java.io.StringWriter;
+import java.io.Writer;
+import java.net.URL;
+import java.nio.charset.Charset;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import kotlin.Metadata;
+import kotlin.Unit;
+import kotlin.internal.InlineOnly;
+import kotlin.internal.PlatformImplementationsKt;
+import kotlin.jvm.JvmName;
+import kotlin.jvm.functions.Function1;
+import kotlin.jvm.internal.InlineMarker;
+import kotlin.jvm.internal.Intrinsics;
+import kotlin.jvm.internal.SourceDebugExtension;
+import kotlin.sequences.Sequence;
+import kotlin.sequences.SequencesKt;
+import kotlin.text.Charsets;
+import org.jetbrains.annotations.NotNull;
+
+@Metadata(d1 = {"\u0000X\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\b\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\t\n\u0002\b\u0002\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u000e\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0012\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010 \n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0005\u001a\u0017\u0010\u0000\u001a\u00020\u0001*\u00020\u00022\b\b\u0002\u0010\u0003\u001a\u00020\u0004H\u0087\b\u001a\u0017\u0010\u0000\u001a\u00020\u0005*\u00020\u00062\b\b\u0002\u0010\u0003\u001a\u00020\u0004H\u0087\b\u001a\u001c\u0010\u0007\u001a\u00020\b*\u00020\u00022\u0006\u0010\t\u001a\u00020\u00062\b\b\u0002\u0010\u0003\u001a\u00020\u0004\u001a\u001e\u0010\n\u001a\u00020\u000b*\u00020\u00022\u0012\u0010\f\u001a\u000e\u0012\u0004\u0012\u00020\u000e\u0012\u0004\u0012\u00020\u000b0\r\u001a\u0010\u0010\u000f\u001a\b\u0012\u0004\u0012\u00020\u000e0\u0010*\u00020\u0001\u001a\n\u0010\u0011\u001a\u00020\u0012*\u00020\u0013\u001a\u0010\u0010\u0014\u001a\b\u0012\u0004\u0012\u00020\u000e0\u0015*\u00020\u0002\u001a\n\u0010\u0016\u001a\u00020\u000e*\u00020\u0002\u001a\u0017\u0010\u0016\u001a\u00020\u000e*\u00020\u00132\b\b\u0002\u0010\u0017\u001a\u00020\u0018H\u0087\b\u001a\r\u0010\u0019\u001a\u00020\u001a*\u00020\u000eH\u0087\b\u001aB\u0010\u001b\u001a\u0002H\u001c\"\u0004\b\u0000\u0010\u001c*\u00020\u00022\u0018\u0010\u001d\u001a\u0014\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000e0\u0010\u0012\u0004\u0012\u0002H\u001c0\rH\u0086\bø\u0001\u0000\u0082\u0002\n\n\b\b\u0001\u0012\u0002\u0010\u0001 \u0001¢\u0006\u0002\u0010\u001e\u0082\u0002\u0007\n\u0005\b\u009920\u0001¨\u0006\u001f"}, d2 = {"buffered", "Ljava/io/BufferedReader;", "Ljava/io/Reader;", "bufferSize", "", "Ljava/io/BufferedWriter;", "Ljava/io/Writer;", "copyTo", "", "out", "forEachLine", "", "action", "Lkotlin/Function1;", "", "lineSequence", "Lkotlin/sequences/Sequence;", "readBytes", "", "Ljava/net/URL;", "readLines", "", "readText", "charset", "Ljava/nio/charset/Charset;", "reader", "Ljava/io/StringReader;", "useLines", "T", "block", "(Ljava/io/Reader;Lkotlin/jvm/functions/Function1;)Ljava/lang/Object;", "kotlin-stdlib"}, k = 2, mv = {1, 9, 0}, xi = 48)
+@JvmName(name = "TextStreamsKt")
+@SourceDebugExtension({"SMAP\nReadWrite.kt\nKotlin\n*S Kotlin\n*F\n+ 1 ReadWrite.kt\nkotlin/io/TextStreamsKt\n+ 2 fake.kt\nkotlin/jvm/internal/FakeKt\n+ 3 _Sequences.kt\nkotlin/sequences/SequencesKt___SequencesKt\n*L\n1#1,157:1\n54#1,4:158\n1#2:162\n1#2:165\n1317#3,2:163\n*S KotlinDebug\n*F\n+ 1 ReadWrite.kt\nkotlin/io/TextStreamsKt\n*L\n35#1:158,4\n35#1:162\n35#1:163,2\n*E\n"})
+/* loaded from: /home/brian-terer/Downloads/BitePal/main_apk/classes.dex */
+public final class TextStreamsKt {
+    @InlineOnly
+    private static final BufferedReader buffered(Reader reader, int i6) {
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        return reader instanceof BufferedReader ? (BufferedReader) reader : new BufferedReader(reader, i6);
+    }
+
+    public static /* synthetic */ BufferedReader buffered$default(Reader reader, int i6, int i7, Object obj) {
+        if ((i7 & 1) != 0) {
+            i6 = ConstantsKt.DEFAULT_BUFFER_SIZE;
+        }
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        return reader instanceof BufferedReader ? (BufferedReader) reader : new BufferedReader(reader, i6);
+    }
+
+    public static final long copyTo(@NotNull Reader reader, @NotNull Writer out, int i6) {
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        Intrinsics.checkNotNullParameter(out, "out");
+        char[] cArr = new char[i6];
+        int read = reader.read(cArr);
+        long j6 = 0;
+        while (read >= 0) {
+            out.write(cArr, 0, read);
+            j6 += read;
+            read = reader.read(cArr);
+        }
+        return j6;
+    }
+
+    public static /* synthetic */ long copyTo$default(Reader reader, Writer writer, int i6, int i7, Object obj) {
+        if ((i7 & 2) != 0) {
+            i6 = ConstantsKt.DEFAULT_BUFFER_SIZE;
+        }
+        return copyTo(reader, writer, i6);
+    }
+
+    public static final void forEachLine(@NotNull Reader reader, @NotNull Function1<? super String, Unit> action) {
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        Intrinsics.checkNotNullParameter(action, "action");
+        BufferedReader bufferedReader = reader instanceof BufferedReader ? (BufferedReader) reader : new BufferedReader(reader, ConstantsKt.DEFAULT_BUFFER_SIZE);
+        try {
+            Iterator it = lineSequence(bufferedReader).iterator();
+            while (it.hasNext()) {
+                action.invoke(it.next());
+            }
+            Unit unit = Unit.INSTANCE;
+            CloseableKt.closeFinally(bufferedReader, null);
+        } finally {
+        }
+    }
+
+    @NotNull
+    public static final Sequence<String> lineSequence(@NotNull BufferedReader bufferedReader) {
+        Intrinsics.checkNotNullParameter(bufferedReader, "<this>");
+        return SequencesKt.constrainOnce(new LinesSequence(bufferedReader));
+    }
+
+    @NotNull
+    public static final byte[] readBytes(@NotNull URL url) {
+        Intrinsics.checkNotNullParameter(url, "<this>");
+        InputStream openStream = url.openStream();
+        try {
+            Intrinsics.checkNotNull(openStream);
+            byte[] readBytes = ByteStreamsKt.readBytes(openStream);
+            CloseableKt.closeFinally(openStream, null);
+            return readBytes;
+        } finally {
+        }
+    }
+
+    @NotNull
+    public static final List<String> readLines(@NotNull Reader reader) {
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        final ArrayList arrayList = new ArrayList();
+        forEachLine(reader, new Function1<String, Unit>() { // from class: kotlin.io.TextStreamsKt$readLines$1
+            /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+            {
+                super(1);
+            }
+
+            @Override // kotlin.jvm.functions.Function1
+            public /* bridge */ /* synthetic */ Unit invoke(String str) {
+                invoke2(str);
+                return Unit.INSTANCE;
+            }
+
+            /* renamed from: invoke, reason: avoid collision after fix types in other method */
+            public final void invoke2(String it) {
+                Intrinsics.checkNotNullParameter(it, "it");
+                arrayList.add(it);
+            }
+        });
+        return arrayList;
+    }
+
+    @NotNull
+    public static final String readText(@NotNull Reader reader) {
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        StringWriter stringWriter = new StringWriter();
+        copyTo$default(reader, stringWriter, 0, 2, null);
+        String stringWriter2 = stringWriter.toString();
+        Intrinsics.checkNotNullExpressionValue(stringWriter2, "toString(...)");
+        return stringWriter2;
+    }
+
+    public static /* synthetic */ String readText$default(URL url, Charset charset, int i6, Object obj) {
+        if ((i6 & 1) != 0) {
+            charset = Charsets.UTF_8;
+        }
+        Intrinsics.checkNotNullParameter(url, "<this>");
+        Intrinsics.checkNotNullParameter(charset, "charset");
+        return new String(readBytes(url), charset);
+    }
+
+    @InlineOnly
+    private static final StringReader reader(String str) {
+        Intrinsics.checkNotNullParameter(str, "<this>");
+        return new StringReader(str);
+    }
+
+    public static final <T> T useLines(@NotNull Reader reader, @NotNull Function1<? super Sequence<String>, ? extends T> block) {
+        Intrinsics.checkNotNullParameter(reader, "<this>");
+        Intrinsics.checkNotNullParameter(block, "block");
+        BufferedReader bufferedReader = reader instanceof BufferedReader ? (BufferedReader) reader : new BufferedReader(reader, ConstantsKt.DEFAULT_BUFFER_SIZE);
+        try {
+            T invoke = block.invoke(lineSequence(bufferedReader));
+            InlineMarker.finallyStart(1);
+            if (PlatformImplementationsKt.apiVersionIsAtLeast(1, 1, 0)) {
+                CloseableKt.closeFinally(bufferedReader, null);
+            } else {
+                bufferedReader.close();
+            }
+            InlineMarker.finallyEnd(1);
+            return invoke;
+        } catch (Throwable th) {
+            try {
+                throw th;
+            } catch (Throwable th2) {
+                InlineMarker.finallyStart(1);
+                if (PlatformImplementationsKt.apiVersionIsAtLeast(1, 1, 0)) {
+                    CloseableKt.closeFinally(bufferedReader, th);
+                } else {
+                    try {
+                        bufferedReader.close();
+                    } catch (Throwable unused) {
+                    }
+                }
+                InlineMarker.finallyEnd(1);
+                throw th2;
+            }
+        }
+    }
+
+    @InlineOnly
+    private static final BufferedWriter buffered(Writer writer, int i6) {
+        Intrinsics.checkNotNullParameter(writer, "<this>");
+        return writer instanceof BufferedWriter ? (BufferedWriter) writer : new BufferedWriter(writer, i6);
+    }
+
+    public static /* synthetic */ BufferedWriter buffered$default(Writer writer, int i6, int i7, Object obj) {
+        if ((i7 & 1) != 0) {
+            i6 = ConstantsKt.DEFAULT_BUFFER_SIZE;
+        }
+        Intrinsics.checkNotNullParameter(writer, "<this>");
+        return writer instanceof BufferedWriter ? (BufferedWriter) writer : new BufferedWriter(writer, i6);
+    }
+
+    @InlineOnly
+    private static final String readText(URL url, Charset charset) {
+        Intrinsics.checkNotNullParameter(url, "<this>");
+        Intrinsics.checkNotNullParameter(charset, "charset");
+        return new String(readBytes(url), charset);
+    }
+}
