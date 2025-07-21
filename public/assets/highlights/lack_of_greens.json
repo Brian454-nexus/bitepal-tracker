@@ -1,0 +1,227 @@
+{
+    "title": "Lack of greens",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To be healthy, eat at least 2-3 cups of vegetables per day.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Almost 90% of Americans",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " do not meet the recommended vegetable intake.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Greens and vegetables are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " packed with vitamins, minerals, fiber, while being low in calories.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They provide",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " vitamins A, C, and K, as well as magnesium and potassium.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "A lack of these nutrients can",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " lead to deficiencies, affecting overall health.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Vegetables help maintain a",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " healthy digestive system",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " and regulate appetite by making you feel fuller for longer.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "A diet low in vegetables can make it more",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " difficult to manage weight effectively.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Vegetables are categorized into five subgroups:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Dark green",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Red and orange",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Beans, peas, and lentils",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "You can eat vegetables in fresh, frozen, canned, or dried forms, and as 100% vegetable juices.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat more vegetables:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Include vegetables and greens in every meal",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose frozen options throughout all seasons",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Make vegetables a centerpiece of meals rather than a side dish",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

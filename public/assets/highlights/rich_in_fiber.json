@@ -1,0 +1,325 @@
+{
+    "title": "Rich in Fiber",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Fiber is the material from plant cell walls.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It belongs to the carbohydrates, but fiber can't be broken down into glucose. That’s why it",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " passes through the body undigested.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Fiber-rich food",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " steadies blood sugar, protects heart health, and keeps you full for a longer time.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "There are two types of fibers:",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " soluble and insoluble.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Soluble fiber dissolves in water and may help lower blood sugar and cholesterol levels.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "You can find it in:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Oatmeal",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Chia seeds",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Nuts",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Beans and lentils",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Apples and berries",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Insoluble fiber doesn’t dissolve in water and helps food",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " move through",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " the digestive system.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "You can find insoluble fiber in:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Whole grains",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Quinoa",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Brown rice",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Legumes",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Leafy greens",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Nuts and seeds",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Adults need",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 25 to 35 grams",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " of fiber per day from food, not supplements.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "American Heart Association",
+                "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/understanding-food-nutrition-labels"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Achieving this isn't easy. In terms of real food,",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 25 grams of fiber = 5 apples or 7 bananas.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To meet the fiber intake:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Add beans or lentils to salads, soups, and stews",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Swap white bread and pasta for whole-grain versions",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Sprinkle chia seeds, flaxseeds, or almonds on your yogurt or salad",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

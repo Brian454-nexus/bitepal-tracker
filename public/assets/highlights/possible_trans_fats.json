@@ -1,0 +1,277 @@
+{
+    "title": "Possible Trans Fats",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Dietary fats differ in how they impact",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " cholesterol levels—",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " a fatty substance in our blood.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Trans fats are harmful",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " because they raise bad (LDL) cholesterol levels while lowering good (HDL) cholesterol.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Too much LDL can",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " clog arteries,",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " increasing the risk of heart attacks, stroke and type 2 diabetes.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Trans fats are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " partially hydrogenated oils.",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " Hydrogen is added to vegetable oil to turn it into an artificial solid fat.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "This process is used to extend shelf life and improve taste, but it makes the foods",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " less healthy.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Trans fats are widely used because they are cheaper than healthier oils.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Common sources of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " trans fats:",
+                            "color": 4294923571
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Margarine",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Biscuits",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Chips",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Crackers",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Frozen pizza",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Microwave popcorn",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Almost anything deep-fried in a",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " fast or street food",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " might contain trans fats.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Trans fats have no known health benefits. Limit them to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " less than 1%",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " of your total calories per day.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "World Health Organization",
+                "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To avoid trans fats:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose whole, unprocessed foods",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Keep away from these ingredients:",
+                                    "color": 4280690214
+                                },
+                                {
+                                    "text": " vegetable shortening, hydrogenated oils, PHO",
+                                    "color": 4294923571
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

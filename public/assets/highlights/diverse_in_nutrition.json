@@ -1,0 +1,224 @@
+{
+    "title": "Diverse in nutrition",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "A diverse food is important to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " provide a range of nutrients",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " your body needs to function properly.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Healthy fats, complex carbs, and high-quality sources of protein are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " the three bases",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " for a varied, healthy plate.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Different foods offer different health benefits.",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " Eggs are rich in antioxidants, while vegetables are a source of fiber.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Aim to include foods from",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " all major food groups:",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " fruits, vegetables, grains, proteins, dairy, and healthy fats.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Rotate the products you eat within each food group to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " maximize nutrient intake.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Instead of eating apples every day,",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " include berries, citruses, tropical fruits as well.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Eating",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 5 portions of fruit and vegetables a day",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " can have a positive impact on your long-term health.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "Fruit and Vegetable Intake and Mortality",
+                "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.048996"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Eating",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 30 different plants a week",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " can boost the diversity and health of your gut microbiome.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "The 30 Plan, Catherine Rabess, 2024",
+                "url": "https://books.google.com.ua/books/about/The_30_Plan.html?id=OA3PEAAAQBAJ&redir_esc=y"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Choose plant-based proteins like",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " beans, lentils, and tofu instead of meat from time to time.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Add",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " seasonal foods",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " into your diet to take advantage of the freshest and most nutrient-dense options available.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "A diverse diet can help prevent boredom with your meals, making it",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " easier to stick to healthy eating habits.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

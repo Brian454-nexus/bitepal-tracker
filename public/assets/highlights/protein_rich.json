@@ -1,0 +1,293 @@
+{
+    "title": "Protein rich",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Protein is",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " made of amino acids,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " which are necessary for",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " bones, muscles, blood, and skin.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "There are ~20 different amino acids. 11 can be produced by the body, and 9 can't—they are known as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " essential amino acids.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "You can find proteins in three different types of products.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Animal products such as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " lean meat, fish, and dairy",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " contain all essential amino acids and are known as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " complete proteins.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Soy products and quinoa also contain",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " all 9 of the essential amino acids.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Plant proteins, such as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " beans, lentils, nuts,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " are incomplete because they lack at least one essential amino acid.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "For muscle growth and strength, you need to consume",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " consume 1.0-1.6 grams of protein per kg of body weight.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "Wu G. Dietary protein intake and human health",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26797090/"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "A person weighing 70 kg with moderate physical activity would need at least",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 90 grams of protein per day.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "More physical activity —more protein needed.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "How much protein is in the products?",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "1 large egg",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " = 6 grams of protein",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "1 cup of low-fat cottage cheese",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " = 28 grams of protein",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "1 chicken breast",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " = 53 grams of protein",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Add protein rich products",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " to each of your meals.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To increase your protein intake:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Add nuts and seeds to salads",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Eat beans in soups, casseroles, and pasta sauces",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Explore high-protein carbs, like quinoa or bean-based pasta",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

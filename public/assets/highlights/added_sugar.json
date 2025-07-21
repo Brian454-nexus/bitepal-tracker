@@ -1,0 +1,288 @@
+{
+    "title": "Added Sugar",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Sugary foods provide empty calories with",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " low nutritional value.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "The most popular examples are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " sugary drinks, ice cream, pastries, and cookies.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Limit your daily added sugar intake to:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "100 calories—about 6 teaspoons for women",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "150 calories—about 9 teaspoons for men",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "American Heart Association",
+                "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Many American adults consume 2–3 times more than this—about 17 teaspoons of added sugar daily.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Just a 0.3L can of soda can contain",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 8 teaspoons of added sugar",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": "—daily limit in just one drink.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "No need to cut out all your favorite treats. A slice of cake or a sugary drink",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " occasionally is okay.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "But try to control your daily intake and be aware of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " where sugar might be hidden.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Sources of hidden sugar:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Granola",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Instant oatmeal",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Breakfast cereals",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Yogurt with jams",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Ketchup and pre-made sauces",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Added sugars go by many names —",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "dextrose, maltose, syrup ",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " — but they all affect your body in the similar way.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat less sugar:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Snack on fruits,",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " dark chocolate, or homemade low-sugar cakes",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Drink water, tea, or coffee.",
+                                    "color": 4280690214
+                                },
+                                {
+                                    "text": " Choose sugar-free sodas",
+                                    "color": 4282888794
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Check labels",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " for hidden sugars",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "title": "Balanced macros",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Carbs, protein, and fat are the key nutrients your body needs. To stay healthy, you should have a",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " balance of them.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To keep your diet balanced, try to get around:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "45-65% of your calories from carbs",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "20-35% from fats",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "10-35% from proteins",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "Dietary reference intakes",
+                "url": "https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t5/?report=objectonly"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Depending on your age and weight, the balance might vary. Use the USDA's website to calculate your macros.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "The United States Department of Agriculture (USDA)",
+                "url": "https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "There is no one \"perfect\" diet.",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " What works for one person may not work for another.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It’s better to focus on",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " the quality of your food,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " not just the type of macronutrient.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "High-quality foods",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " include minimally processed vegetables, fruits, whole grains, healthy fats, and lean proteins.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Lower-quality foods",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " include highly processed snacks, sugary beverages, refined grains, fried foods, and saturated fats.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Follow this guide to create balanced meals:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Vegetables and fruits: ½ of your plate",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Whole grains: ¼ of your plate",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Protein: ¼ of your plate",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Healthy plant oils: in moderation",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "title": "Natural",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Natural or whole foods are ingredients that are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " minimally processed",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " and remain in their most natural form.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Fresh fruits, vegetables, whole grains, nuts, meats and fish, plain yogurt, coffee beans, tea leaves, and fresh milk",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " are natural foods.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "An example of a natural product is",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " whole oat groats,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " while a processed version made from it is an",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " instant sweetened packaged oatmeal.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Avoid ultra-processed foods that contain numerous artificial additives and have a high calorie-to-nutrient ratio:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Junk food and fast food",
+                                    "color": 4294923571
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Sugary drinks",
+                                    "color": 4294923571
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Breakfast cereals",
+                                    "color": 4294923571
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Always check the product ingredients on the package—",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "the shorter the list, the better.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "The ingredients listed first are usually in the largest quantity. Also, fats, sugars, and salt might be listed using different names.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Whole foods typically contain",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " fewer artificial colors, flavors, and preservatives,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " making them healthier options.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Unprocessed foods are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " beneficial for long-term health.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Minimally processed foods have a",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " smaller environmental footprint",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " as they require less energy and packaging to produce.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat more natural foods:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Prepare your meals at home using fresh ingredients",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Avoid added sugars, unhealthy fats, and preservatives",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Always check food labels for ingredients",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

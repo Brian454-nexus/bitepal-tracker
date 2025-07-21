@@ -1,0 +1,249 @@
+{
+    "title": "Rich in vitamins & minerals",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Vitamins and minerals",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " boost our immune system",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " and help cells and organs to function properly.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Consult your doctor",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " before starting to take additional vitamins or increasing the dose.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "Daily values for vitamins and minerals",
+                "url": "https://ods.od.nih.gov/HealthInformation/nutrientrecommendations.aspx"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "The best way to get a variety of vitamins and minerals is to eat",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " a healthy, diverse diet and choose non-processed foods.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Getting your vitamins and minerals",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " primarily from food",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " rather than supplements has several advantages.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Better absorption:",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " real foods help nutrients absorb more effectively because they contain fiber that aid the process.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Nutrient synergy:",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " for example, vitamin C in oranges aids the absorption of iron, while fats in avocados enhance the absorption of vitamins A, D, E, and K.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Diet quality:",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " getting nutrients from food encourages you to eat a variety of natural foods for a balanced diet.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "The most of vitamins and minerals are in",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " fruits and vegetables, whole grains, beans, legumes, proteins and dairy.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat more vitamins, choose these foods:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Calcium:",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " yogurt, cheese, milk, and leafy greens",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Iodine:",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " iodized salt and seafood",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Iron:",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " meat, poultry, fish, and beans",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Vitamin A: ",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " carrots, sweet potatoes, spinach, and kale",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Vitamin C:",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " citrus fruits, potatoes, broccoli, bell peppers, spinach, and strawberries",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Vitamin E:",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " nuts, seeds, and vegetable oils",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "title": "Saturated Fats",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "We need dietary fats for:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Nutrient absorption",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Hormone production",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Healthy skin and hair",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Saturated fats are primarily found in animal products.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Most experts agree: the right approach to saturated fats is not to overdo them.",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " not to overdo them.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Too much saturated fats can",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " raise cholesterol levels,",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " leading to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " heart disease risks.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Common sources of saturated fat:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Red meat",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Butter and cheese",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Coconut and palm oils",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Foods baked or fried with these fats",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Try to limit saturated fats to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " no more than 5-6%",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " of your total daily calories.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "The American Heart Association",
+                "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It's 13 grams of saturated fats if you eat 2,000 calories per day.",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 2 tbsp of butter",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " or",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 2 slices of pepperoni pizza.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Don't worry, you can enjoy any food in moderation.",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " It's all about balance.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To keep the balance with fats:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Don’t forget to eat fish, nuts, and avocados",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Prioritize lean meats and seafood",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose cooking methods like",
+                                    "color": 4280690214
+                                },
+                                {
+                                    "text": " baking, steaming, or grilling",
+                                    "color": 4282888794
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

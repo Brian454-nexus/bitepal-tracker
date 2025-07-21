@@ -1,0 +1,231 @@
+{
+    "title": "Alcohol",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Alcoholic drinks contain ethanol, a",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " psychoactive and toxic",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " substance that can cause dependence.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "According to the WHO, there is",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " no safe dose",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " of alcohol for your health.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Alcohol is linked to liver disease, heart disease, various cancers, and mental health issues.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It has",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " no nutritional value",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " but contains calories.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Alcohol",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " reduces nutrient absorption",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and worsens metabolism, making it harder to maintain a healthy weight.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "If you decide to drink, try to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " keep it moderate and be mindful",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " of how much you're having.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "It's usually recommended to stick to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 1 drink once per week:",
+                            "color": 4282888794
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "120 ml of wine",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "300 ml of beer",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "50 ml of spirits",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Choose",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " natural drinks",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " like dry wine or beer, and avoid drinks with",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " sugars and artificial additives.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Moderate drinking might be okay for some, but it's important to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " know the risks and set your limits. ",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "If you struggle with dependency,",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " seek for the help.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

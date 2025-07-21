@@ -1,0 +1,228 @@
+{
+    "title": "High in salt",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Salt, or sodium chloride, consists of about",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 40% sodium and 60% chloride.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "The human body requires",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " a small amount of sodium",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " for nerve function, muscle activity, and water balance.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Excessive sodium intake",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " can lead to high blood pressure, heart disease, and calcium loss.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Adults need",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " less than 2000 mg of sodium per day",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " = less than 5 grams of salt = just under a teaspoon.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "World Health Organization",
+                "url": "https://www.who.int/news-room/fact-sheets/detail/salt-reduction"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "About 80% of the sodium we consume comes from",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " processed and restaurant foods.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Another 15% comes from naturally salty foods like olives and pickles, and",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " only generally 5% from salt added at home.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Canned soups, processed meat, and instant noodles are",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " loaded with sodium for preservation.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Two slices of ham can contain ~600 mg of sodium, nearly half the recommended daily intake for adults.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "\"Low sodium\" means the product contains",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 140 mg or less per serving.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Both too much and too little salt can cause health issues.",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " Moderation is key.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat less sodium:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Spot hidden salt, it can be where you might not expect it",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Cook at home more often than eating out",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Perk up your meals with spices, herbs, and aromatics instead of salt",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
