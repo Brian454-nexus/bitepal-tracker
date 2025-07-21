@@ -1,0 +1,279 @@
+{
+    "title": "Complex Carbs",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Our body breaks down all carbohydrates into glucose, our",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " main source of energy.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Unlike simple, complex carbs consist",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " of long chains",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " of sugar molecules. Our body needs",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " more time",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " to absorb them.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Slow absorption is beneficial because it",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " stabilizes blood sugar,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " provides",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " consistent energy,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " and lead to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " better health.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Complex carbs are found in:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Legumes",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Whole-grains",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Brown rice, oats and quinoa",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Vegetables and fruits",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "This food is also high in ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " fiber, vitamins, and minerals.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Fill 1/2 of your plate with",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " vegetables and fruits",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " and 1/4 of it with",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " whole grains.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "Harvard Health Publishing",
+                "url": "https://www.health.harvard.edu/staying-healthy/healthy-eating-plate"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Eat",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " more complex carbs",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " like whole grains",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " instead of simple carbs ",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " like flour products to improve your cholesterol levels.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "American Heart Association",
+                "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/whole-grains-refined-grains-and-dietary-fiber"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Whole grains also provide",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " B vitamins, iron, magnesium, and selenium.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To eat more complex carbs:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose whole grain pasta and brown rice",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Eat nuts and fresh fruits as snacks",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Use chickpeas, sweet potatoes, or lentils as garnishes",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

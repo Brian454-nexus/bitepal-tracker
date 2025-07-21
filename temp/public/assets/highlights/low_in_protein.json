@@ -1,0 +1,299 @@
+{
+    "title": "Low in protein",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Protein is",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " made of amino acids,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " which are necessary for",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " bones, muscles, blood, and skin.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "There are ~20 different amino acids. 11 can be produced by the body, and 9 can't—they are known as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " essential amino acids.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Essential amino acids cannot be made by the body and must be obtained from the diet.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Protein can be found in:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Animal sources",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": "—meat, fish, poultry, eggs, dairy;",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Plant sources",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": "—beans, lentils, nuts, seeds, soy products, quinoa;",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Lacking vital amino acids can cause",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " mood changes, skin, hair, and nail issues, fatigue, weak immunity, and hunger.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "For",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " muscle growth and strength,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " you need to consume more—",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": "1.0-1.6 grams of protein per kg of body weight.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ],
+            "link": {
+                "title": "Wu G. Dietary protein intake and human health",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26797090/"
+            }
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "A person weighing 70 kg with moderate physical activity would need at least",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " 90 grams of protein per day.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "More physical activity—more protein needed.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "How much protein is in the products?",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "1 large egg",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " = 6 grams of protein",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "1 cup of low-fat cottage cheese",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " = 28 grams of protein",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "1 chicken breast",
+                                    "color": 4282888794
+                                },
+                                {
+                                    "text": " = 53 grams of protein",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Add protein rich products",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " to each of your meals.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To increase your protein intake:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Add nuts and seeds to salads",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Eat beans in soups, casseroles, and pasta sauces",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Explore high-protein carbs, like quinoa or bean-based pasta",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

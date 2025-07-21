@@ -1,0 +1,211 @@
+{
+    "title": "Processed foods",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Processed foods often contain",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " a lot of added or artificial ingredients.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They often have added",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " sugar, unhealthy fat, salt, and chemicals.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Chips, fast food, sweet drinks, instant noodles, packaged sweets are examples of processed food.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Potatoes are natural. Frozen fries are processed.",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " Packaged cheesy potato snacks",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " are ultra-processed.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Ultra-processed foods are made to taste good and last long.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They’re usually",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " high in calories",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " low in nutrients.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " can lead to weight gain",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and health problems over time.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Check food labels — long ingredient lists usually mean ultra-processed.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "They also harm the environment because of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " heavy packaging",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " and energy use.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "How to eat less ultra-processed food:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Pick foods that look close to how they grow",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Skip packaged snacks and sugary drinks when you can.",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Cook more at home with simple, real ingredients.",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

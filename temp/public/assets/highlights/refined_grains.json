@@ -1,0 +1,250 @@
+{
+    "title": "Refined Grains",
+    "screens": [
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Grains are a key source of carbohydrates and can be either",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " whole",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " or",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " refined.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Whole grains are part of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " complex carbs,",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " while refined grains are classified as",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " simple carbs.",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To refine grains, the",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " bran and germ are removed",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " during the milling process.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "This",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " reduces the amount of dietary fiber,",
+                            "color": 4294923571
+                        },
+                        {
+                            "text": " iron, and B vitamins.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Less fiber means the food is less filling, which can lead to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " overeating",
+                            "color": 4294923571
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Examples of",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " refined grains:",
+                            "color": 4294923571
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Regular pasta",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "White rice",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Couscous",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Whole grains",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " like brown rice or whole wheat, are ",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " are richer in fiber, vitamins, and minerals.",
+                            "color": 4282888794
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "Refined grains can be part of a healthy diet. Just be sure to",
+                            "color": 4280690214
+                        },
+                        {
+                            "text": " include vegetables or whole",
+                            "color": 4282888794
+                        },
+                        {
+                            "text": " as side dishes more often.",
+                            "color": 4280690214
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "type": "richtext",
+                    "items": [
+                        {
+                            "text": "To limit refined grains:",
+                            "color": 4280690214
+                        }
+                    ]
+                },
+                {
+                    "type": "checklist",
+                    "items": [
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Replace white bread and pasta with whole grain alternatives",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Choose brown rice or quinoa instead of white rice",
+                                    "color": 4280690214
+                                }
+                            ]
+                        },
+                        {
+                            "type": "richtext",
+                            "items": [
+                                {
+                                    "text": "Incorporate more whole grains like oats and barley into your meals",
+                                    "color": 4280690214
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
